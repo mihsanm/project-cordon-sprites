@@ -9,6 +9,7 @@ As a gratitude for your interest and contribution, here is a generated spriteshe
 ![Spritesheet](markdown/spritesheet.png)
 
 Below is the spritesheet of unique images in this repository.
+<img class="thick-green-border smaller-image">
 
 ![Spritesheet All](markdown/spritesheet-all.png)
 
